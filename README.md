@@ -1,8 +1,8 @@
 # direwolf
 
-**direwolf** - darkweb search engine. Project's development is in progress now.
+**direwolf** - search engine for Tor hidden services. Project's development is in progress now.
 
-Copyright 2020-2021 hIMEI
+Copyright 2021 hIMEI
 
 ## TOC
 - [About](#about)
@@ -30,8 +30,6 @@ MIT License
 ## Features
 
 ## Version
-
-v0.1.0
 
 ## Install
 
